@@ -1,6 +1,6 @@
 <img src="dog.gif" width="50px">
 
-Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** graduate from [BRAC University](https://www.bracu.ac.bd/). I am currently employed as a **Software Engineer** at [Go Zayaan Limited](https://www.gozayaan.com/). Although being a Software Engineer, I am very enthusiastic in the field of Deep Learning and AI. I primarily work in Projects related to Human **Computer Interaction** and **Computer Vision** even though Recently I find **GAN** to be very much interesting. Find more about me below
+Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** graduate from [BRAC University](https://www.bracu.ac.bd/). I am currently employed as a **Software Engineer** at [Go Zayaan Limited](https://www.gozayaan.com/). Although being a Software Engineer, I am very enthusiastic in the field of Deep Learning and AI. I primarily work in Projects related to **Human Computer Interaction** and **Computer Vision** even though Recently I find **GAN** to be very much interesting. Find more about me below...
 
 [![Linkedin Badge](https://img.shields.io/badge/-Takrim%20Rahman%20Albi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takrim-rahman-albi/)](https://www.linkedin.com/in/takrim-rahman-albi/)
 [![Gmail Badge](https://img.shields.io/badge/-alvirahmanwork%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvirahmanwork@gmail.com)](mailto:alvirahmanwork@gmail.com)
