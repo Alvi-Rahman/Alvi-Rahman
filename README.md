@@ -78,6 +78,7 @@ Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 
 > **Miscellaneous**
 
