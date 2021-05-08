@@ -14,7 +14,7 @@ Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** 
 
 ![Human Computer Interaction](https://img.shields.io/badge/-Human%20Computer%20Interaction-black?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-black?style=flat-square)
-![GAN](https://img.shields.io/badge/-GAN-black?style=flat-square)
+![Generative Adversrial Networks](https://img.shields.io/badge/-GAN-black?style=flat-square)
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-black?style=flat-square)
 
 > **Area Of Expertise**
