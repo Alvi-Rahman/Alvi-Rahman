@@ -4,7 +4,7 @@ Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Takrim%20Rahman%20Albi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takrim-rahman-albi/)](https://www.linkedin.com/in/takrim-rahman-albi/)
 [![Gmail Badge](https://img.shields.io/badge/-alvirahmanwork%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvirahmanwork@gmail.com)](mailto:alvirahmanwork@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Alvi%20Tahman-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alvi.rahman.001/)](https://www.facebook.com/alvi.rahman.001/)
+[![Facebook Badge](https://img.shields.io/badge/-Alvi%20Rahman-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alvi.rahman.001/)](https://www.facebook.com/alvi.rahman.001/)
 [![Twitter Badge](https://img.shields.io/badge/-Alvi__Rahman__-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Alvi_Rahman_)](https://twitter.com/Alvi_Rahman_)
 
 ## **AI and Data Science**
