@@ -45,11 +45,6 @@ Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** 
 ![Pillow](https://img.shields.io/badge/-Pillow-black?style=flat-square&logo=Pillow)
 ![NiLearn](https://img.shields.io/badge/-NiLearn-black?style=flat-square&logo=NiLearn)
 
-> **Back-end Technologies**
-
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-black?style=flat-square&logo=Django)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 #########################################################
 
