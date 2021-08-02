@@ -73,6 +73,7 @@ Hi! I'm Alvi Rahman(Takrim Rahman Albi), a **Computer Science and Engineering** 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-black?style=flat-square&logo=Django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 
 > **Database**
 
